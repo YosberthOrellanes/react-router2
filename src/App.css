@@ -1,0 +1,54 @@
+.fondohome{
+   background-color: yellow;
+}
+
+.saludo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: oblique;
+    color: orange;
+}
+.fondo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.navbar{
+gap: 20px;
+
+}
+.m-3{
+    
+    width: 300px;
+}
+
+.busquedaPokemon{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+    padding-top: 30px;
+
+
+}
+
+.detalle{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+    color: rgb(94, 15, 15);
+    padding-top: 50px;
+}
+.pt-5{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+}
+
+.active{
+    color: white;
+}
